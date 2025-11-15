@@ -1,4 +1,5 @@
-README REALIZADO con DEEPSEEk AI.
+README REALIZADO con DEEPSEEK AI.
+Alum. Pieres Rawson Paz, Silvestre.
 
 # 🏪 Sistema de Gestión de Tienda - POO
 
@@ -62,4 +63,5 @@ SistemaTienda/
 ├── 📦 productos.json            # (Auto-generado) Catálogo de productos
 ├── 📋 pedidos.json              # (Auto-generado) Historial de pedidos
 ├── 🏷️ etiqueta_PEDXXXX.txt      # (Auto-generado) Etiquetas de envío
+
 └── 📄 README.md                 # Este archivo
